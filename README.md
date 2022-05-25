@@ -1,11 +1,13 @@
-# bunny_search_api_frog_experimental
+# Bunny Search API built with dart_frog
 
-[![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
-[![License: MIT][license_badge]][license_link]
+🚧 README is work in progress 🚧
 
-An example application built with dart_frog
+This is an experimental API for the app ["Bunny Search"](https://github.com/darjaorlova/bunny-search-source-code)
 
-[license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
-[license_link]: https://opensource.org/licenses/MIT
-[very_good_analysis_badge]: https://img.shields.io/badge/style-very_good_analysis-B22C89.svg
-[very_good_analysis_link]: https://pub.dev/packages/very_good_analysis
+It is built using [dart_frog framework](https://github.com/VeryGoodOpenSource/dart_frog)
+
+[Originally](https://github.com/darjaorlova/bunny_search_api) built only with [`shelf`](https://github.com/dart-lang/shelf)
+
+Disclaimer: I'm an app dev and only exploring backend development as a hobby, so my practices aren't always the best practices (yet) 😅
+
+Reach out to me on Twitter: [@dariadroid](https://twitter.com/dariadroid)
